@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenSourcePOE_Part_2</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiaWx5LWRhdmlkczIxIiwiYSI6ImNsbjI1dWQybzA1OGsyam5yMDEwbXBjc2YifQ.JpmaqqWnzKZazYbQm11z0w</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="MY_API_KEY"> AIzaSyD7oLDRy6OkYnf6DZBR3zZytvIVG4Q_16Y </string>
+    <string name="title_activity_google_maps">GoogleMapsActivity</string>
+</resources>
